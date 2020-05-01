@@ -1,41 +1,29 @@
 ---
-title: Introduction
+title: ClickHouse
 type: docs
 ---
 
-# Acerbo datus maxime
+# ClickHouse
 
-{{< columns >}}
-## Astris ipse furtiva
+## 官方资料
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+- 官网： https://clickhouse.tech/
+- 官方文档： https://clickhouse.tech/docs/en/
+- Github： https://github.com/ClickHouse/
 
-<--->
+## 中文社区
 
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+- ClickHouse 专业中文社区 ： http://www.clickhouse.com.cn/
 
 
-## Tempora nisi nunc
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+## 相关资源
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+- [ClickHouse Beijing Meetup - 数据分析领域的黑马](https://www.jianshu.com/p/d95df0aee9fa)
+- [ClickHoust Meetup PPT](https://www.slidestalk.com/ClickHouse/)
+- [housepower - Power your ClickHouse](https://github.com/housepower)
 
-## Locis suis novi cum suoque decidit eadem
+## 相关博客
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- [2020-02-02] https://www.cnblogs.com/wuning/tag/ClickHouse/
+- [2019-07-17] https://www.cnblogs.com/gomysql/category/976463.html
