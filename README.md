@@ -1,12 +1,12 @@
-# Template-Hugo 
+# ClickHouse 
 
 
 ```
-cp ../Template-Hugo/README.md .
-cp -r ../Template-Hugo/HuGo/themes/book ./HuGo/themes
-cp -r ../Template-Hugo/HuGo/config.* ./HuGo
-cp -r ../Template-Hugo/HuGo/assets ./HuGo
-sed -i '' 's/Template-Hugo/_NewProject_/g' `grep Template-Hugo --include=\*.{md,html,xml,yaml,toml} -rl .`
+cp ../ClickHouse/README.md .
+cp -r ../ClickHouse/HuGo/themes/book ./HuGo/themes
+cp -r ../ClickHouse/HuGo/config.* ./HuGo
+cp -r ../ClickHouse/HuGo/assets ./HuGo
+sed -i '' 's/ClickHouse/_NewProject_/g' `grep ClickHouse --include=\*.{md,html,xml,yaml,toml} -rl .`
 
 git config user.email ykb553@163.com
 git config -l | grep user
